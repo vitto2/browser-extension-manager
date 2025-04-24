@@ -1,1 +1,1 @@
-# browser-extensio-manager
+# browser-extension-manager
