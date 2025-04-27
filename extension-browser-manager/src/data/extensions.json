@@ -1,0 +1,62 @@
+[
+  {
+    "title": "DevLens",
+    "text": "Quickly inspect page layouts and visualize element boundaries.",
+    "icon": "devlens"
+  },
+  {
+    "title": "StyleSpy",
+    "text": "Instantly analyze and copy CSS from any webpage element.",
+    "icon": "stylespy"
+  },
+  {
+    "title": "SpeedBoost",
+    "text": "Optimizes browser resource usage to accelerate page loading.",
+    "icon": "speedboost"
+  },
+  {
+    "title": "JSONWizard",
+    "text": "Formats, validates, and prettifies JSON responses in-browser.",
+    "icon": "jsonwizard"
+  },
+  {
+    "title": "TabMaster Pro",
+    "text": "Organizes browser tabs into groups and sessions.",
+    "icon": "tabmasterpro"
+  },
+  {
+    "title": "ViewportBuddy",
+    "text": "Simulates various screen resolutions directly within the browser.",
+    "icon": "viewportbuddy"
+  },
+  {
+    "title": "Markup Notes",
+    "text": "Enables annotation and notes directly onto webpages for collaborative debugging.",
+    "icon": "markuponotes"
+  },
+  {
+    "title": "GridGuides",
+    "text": "Overlay customizable grids and alignment guides on any webpage.",
+    "icon": "gridguides"
+  },
+  {
+    "title": "Palette Picker",
+    "text": "Instantly extracts color palettes from any webpage.",
+    "icon": "paletepicker"
+  },
+  {
+    "title": "LinkChecker",
+    "text": "Scans and highlights broken links on any page.",
+    "icon": "linkchecker"
+  },
+  {
+    "title": "DOM Snapshot",
+    "text": "Capture and export DOM structures quickly.",
+    "icon": "domsnapshot"
+  },
+  {
+    "title": "ConsolePlus",
+    "text": "Enhanced developer console with advanced filtering and logging.",
+    "icon": "consoleplus"
+  }
+]
